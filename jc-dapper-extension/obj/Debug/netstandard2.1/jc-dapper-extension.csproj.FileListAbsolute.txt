@@ -1,0 +1,10 @@
+C:\git\jc-dapper-extension\jc-dapper-extension\bin\Debug\netstandard2.1\jc-dapper-extension.deps.json
+C:\git\jc-dapper-extension\jc-dapper-extension\bin\Debug\netstandard2.1\jc-dapper-extension.dll
+C:\git\jc-dapper-extension\jc-dapper-extension\bin\Debug\netstandard2.1\jc-dapper-extension.pdb
+C:\git\jc-dapper-extension\jc-dapper-extension\obj\Debug\netstandard2.1\jc-dapper-extension.csproj.AssemblyReference.cache
+C:\git\jc-dapper-extension\jc-dapper-extension\obj\Debug\netstandard2.1\jc-dapper-extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\jc-dapper-extension\jc-dapper-extension\obj\Debug\netstandard2.1\jc-dapper-extension.AssemblyInfoInputs.cache
+C:\git\jc-dapper-extension\jc-dapper-extension\obj\Debug\netstandard2.1\jc-dapper-extension.AssemblyInfo.cs
+C:\git\jc-dapper-extension\jc-dapper-extension\obj\Debug\netstandard2.1\jc-dapper-extension.csproj.CoreCompileInputs.cache
+C:\git\jc-dapper-extension\jc-dapper-extension\obj\Debug\netstandard2.1\jc-dapper-extension.dll
+C:\git\jc-dapper-extension\jc-dapper-extension\obj\Debug\netstandard2.1\jc-dapper-extension.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>jcdecastrop.Util.DapperExtension</id>
+    <version>1.0.0</version>
+    <authors>jcdecastrop</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Dapper extension to automatically generate and run SQL queries based on your custom objects.</description>
+    <releaseNotes>Initial Version</releaseNotes>
+    <tags>dapper, orm, microorm</tags>
+    <repository url="https://github.com/jcdecastrop/jc-dapper-extension" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Dapper" version="2.0.90" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\git\jc-dapper-extension\jc-dapper-extension\bin\Debug\netstandard2.1\jc-dapper-extension.dll" target="lib\netstandard2.1\jc-dapper-extension.dll" />
+  </files>
+</package>

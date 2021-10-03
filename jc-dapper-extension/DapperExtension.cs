@@ -25,7 +25,7 @@ namespace jc_dapper_extension
             bool ignore_field = false;
 
             //Check if column needs to be ignore
-            var dapper_tools_attribute = (Attributes.DapperToolsAttribute)Attribute.GetCustomAttribute(element: Property, attributeType: typeof(Attributes.DapperToolsAttribute));
+            var dapper_tools_attribute = (Attributes.DapperExtensionAttribute)Attribute.GetCustomAttribute(element: Property, attributeType: typeof(Attributes.DapperExtensionAttribute));
             if (dapper_tools_attribute != null)
                 ignore_field = dapper_tools_attribute.Ignore;
 

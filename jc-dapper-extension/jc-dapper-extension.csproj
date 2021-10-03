@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <RootNamespace>jc_dapper_extension</RootNamespace>
+    <PackageId>jcdecastrop.Util.DapperExtension</PackageId>
+    <Authors>jcdecastrop</Authors>
+    <Description>Dapper extension to automatically generate and run SQL queries based on your custom objects.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/jcdecastrop/jc-dapper-extension</RepositoryUrl>
+    <PackageTags>dapper, orm, microorm</PackageTags>
+    <PackageReleaseNotes>Initial Version</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
